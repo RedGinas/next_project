@@ -1,0 +1,14 @@
+{
+  "importOrder": [
+    "^react(.*)",
+    "@mui/(.*)",
+    "^(?=.*src)(?!.*css).*",
+    "^(?!.*[\\./]).*",
+    "<THIRD_PARTY_MODULES>",
+    ".css"
+  ],
+  "importOrderSeparation": true,
+  "importOrderSortSpecifiers": true,
+  "singleQuote": true,
+  "trailingComma": "all"
+}
